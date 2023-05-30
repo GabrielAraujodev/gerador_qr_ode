@@ -11,6 +11,29 @@
     background-color: rgb(5, 0, 25);
   }
   
+
+header{
+  max-width: 100%;
+  background-color: aliceblue;
+  height: 2.5rem;
+  box-shadow: 1px 3px 4px 2px hsla(244, 100%, 95%, 0.73); 
+  
+}
+
+
+.title{
+  position: absolute;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  align-items: center;
+  justify-content: center;
+  top:  6px;
+  margin-left:4rem;
+  color: #7B59E3;
+
+}
+
   .container {
 
     display: flex;
